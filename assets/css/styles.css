@@ -267,6 +267,7 @@ body.light-theme{
 }
 
 .home__greeting{
+  padding:10px;
   display: block;
   color: var(--title-color);
   margin-bottom: .25rem;
@@ -274,6 +275,7 @@ body.light-theme{
 }
 
 .home__education{
+  padding: 10px;
   color: var(--text-color);
   margin-bottom: 2.5rem;
   
