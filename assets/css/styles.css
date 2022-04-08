@@ -741,7 +741,7 @@ color: var(--body-color);
 .footer__copy{
   display: block;
   margin-top: 4.5rem;
-  
+  color: black;
   text-align: center;
   font-size: var(--smaller-font-size);
 }
