@@ -271,6 +271,7 @@ body.light-theme{
   display: block;
   color: var(--title-color);
   margin-bottom: .25rem;
+  font-size: 25px;
 
 }
 
